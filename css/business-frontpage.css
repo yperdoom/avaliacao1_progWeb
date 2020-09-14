@@ -1,0 +1,21 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.bg-primary {
+  background-color: #d1067281 !important;
+
+}
+
+.lead{
+  font-weight: bold;
+}
+
+/* d10671 rosa
+383761 azul
+ffa200 amarelo*/
